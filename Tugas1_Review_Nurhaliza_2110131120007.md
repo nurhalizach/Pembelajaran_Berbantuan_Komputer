@@ -1,3 +1,6 @@
+Nama: Nurhaliza
+NIM : 2110131120007
+
 # TINKERCAD SEBAGAI TUTOR, TOOLS, DAN TUTEE
 
 ## 1. Tinkercad sebagai Tutor
