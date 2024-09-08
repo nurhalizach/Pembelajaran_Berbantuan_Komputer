@@ -9,7 +9,7 @@ Tinkercad adalah aplikasi berbasis web yang dikembangkan oleh Autodesk untuk mem
 Tinkercad berfungsi sangat efektif sebagai sebuah tutor. Tinkercad menyediakan berbagai tutorial interaktif yang dirancang untuk memandu pengguna (terutama pemula) dalam mempelajari konsep-konsep desain 3D dan sirkuit elektronik. Melalui tutorial yang disusun secara jelas dan mudah diikuti, Tinkercad mempermudah pengguna dalam memahami dan menguasai keterampilan desain secara mandiri. Setiap langkah dijelaskan secara rinci kemudian pengguna mendapatkan umpan balik langsung jika terjadi kesalahan pada saat mengikuti langkah pembelajaran. Hal tersebut memungkinkan perbaikan dan pembelajaran yang lebih efektif. Tinkercad menjadi alat yang sangat bermanfaat dalam konteks pembelajaran mandiri.
 </p>
 
-![Tinkercad](\gambar\gambar1.png)
+![Tinkercad](https://github.com/nurhalizach/Pembelajaran_Berbantuan_Komputer/blob/master/gambar/gambar1.png)
 
 ## 2. Tinkercad sebagai Tools
 
