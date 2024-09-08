@@ -1,5 +1,7 @@
 # TINKERCAD SEBAGAI TUTOR, TOOLS, DAN TUTEE
 
+Tinkercad adalah aplikasi berbasis web yang dikembangkan oleh Autodesk untuk membuat model 3D, simulasi rangkaian elektronik, dan pemrograman mikrokontroler dengan antarmuka yang sederhana dan intuitif. Sangat cocok untuk pendidikan, terutama dalam pengajaran STEM, Tinkercad memungkinkan pengguna mendesain dan belajar melalui berbagai tutorial dan proyek interaktif. Aplikasi ini berfungsi sebagai tutor, tools, dan tutee, mendukung pembelajaran melalui panduan, alat desain, serta eksperimen mandiri.
+
 ## 1. Tinkercad sebagai Tutor
 
 
